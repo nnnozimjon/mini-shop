@@ -1,0 +1,1 @@
+export { CreateProductModalForm } from './modal-form';

@@ -1,0 +1,1 @@
+export { default as AdminOrdersPage } from './orders-page';

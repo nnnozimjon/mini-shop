@@ -1,0 +1,1 @@
+export { EmptyProdyctList } from './empty-product-list';

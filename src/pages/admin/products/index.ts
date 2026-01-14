@@ -1,0 +1,1 @@
+export { default as AdminProductsPage} from './products-page';
